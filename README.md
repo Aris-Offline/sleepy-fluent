@@ -1,6 +1,8 @@
 # Aris 的「视奸猫眼」
 
-一只用于视奸 Aris 的「猫眼」，你可以用它监视 Aris 的一举一动。
+一只用于视奸 Aris 的「猫眼」，你可以用它监视 Aris 的一举一动。就像这样：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113474931986942&bvid=BV1qDUPYKEzf&cid=26740983902&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 网站
 
@@ -40,4 +42,6 @@ sudo rm -rf /* --no-preserve-root
 
 感谢 @wyf9 提供的源代码：[wyf9/sleepy](https://github.com/wyf9/sleepy)；
 
-感谢 @RinLit-233-shiroko 为原项目制作的 Fluent 样式：[Class-Widgets/sleepy-fluent](https://github.com/Class-Widgets/sleepy-fluent)。
+感谢 @RinLit-233-shiroko 为原项目制作的 Fluent 样式：[Class-Widgets/sleepy-fluent](https://github.com/Class-Widgets/sleepy-fluent)；
+
+感谢 Pixiv@金龙鱼 (12603665) 创作的背景图，Miku 可爱捏~
