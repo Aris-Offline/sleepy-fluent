@@ -1,0 +1,46 @@
+{
+    "version": "2024.12.31.1",
+    "debug": false,
+    "host": "0.0.0.0",
+    "port": 7210,
+    "secret": "ariswu",
+    "status_list": [
+        {
+            "id": 0,
+            "name": "活着",
+            "desc": "目前在线，可以通过任何可用的联系方式联系本人。",
+            "color": "awake"
+        },
+        {
+            "id": 1,
+            "name": "似了",
+            "desc": "睡似了或其他原因不在线，紧急情况请使用电话联系。",
+            "color": "sleeping"
+        },
+        {
+            "id": 2,
+            "name": "Designant.",
+            "desc": "正在搞鼓 Figma 或者别的什么东西。尽量不要打扰本人。",
+            "color": "awake"
+        },
+        {
+            "id": 3,
+            "name": "坐牢",
+            "desc": "上学去了，这个时候你再怎么样也联系不到我。",
+            "color": "error"
+        }
+    ],
+    "refresh": 5000,
+    "data_check_interval": 30,
+    "other": {
+        "user": "Aris",
+        "background": "https://imgapi.siiway.top/image",
+        "alpha": 0.85,
+        "learn_more": "GitHub Profile",
+        "learn_more_inkore": "Official Website",
+        "repo": "https://github.com/Aris-Offline",
+        "website_inkore": "https://www.inkore.net",
+        "more_text": "Or check out...",
+        "device_status_slice": 30
+    }
+}
