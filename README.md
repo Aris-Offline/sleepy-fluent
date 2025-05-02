@@ -16,7 +16,7 @@
 
 ## 网站
 
-还没搭完😭 没时间搭网站了
+<https://aris-sleepy.vercel.app/>
 
 ## 部署
 
